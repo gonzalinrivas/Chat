@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888579590386",
+    "firebase_url": "https://chattensa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chattensa",
+    "storage_bucket": "chattensa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888579590386:android:f467ac62fc53a8ada7a86b",
+        "android_client_info": {
+          "package_name": "com.example.chattensa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888579590386-ostikt3pfc7p7u5n01j0l9vm2slbohrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPuHwArdenJxe8I_enhhe-Dpn3QWv7jC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888579590386-ostikt3pfc7p7u5n01j0l9vm2slbohrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

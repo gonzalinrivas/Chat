@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatTensa</string>
+    <string name="Password">Password</string>
+    <string name="nombreUsuario">Usuario</string>
+    <string name="helper_required">Requerido</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+</resources>

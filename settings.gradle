@@ -1,0 +1,2 @@
+rootProject.name = "ChatTensa"
+include ':app'
